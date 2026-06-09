@@ -73,6 +73,7 @@ Marketing ROI uplift: Reallocate spend from underperforming channels to high‑c
 Faster decisions: Shorten decision cycles from days to hours with interactive exploration and exportable snapshots.
 
 Example measurable outcomes: Increase gross margin by 1–3 percentage points, reduce inventory carrying cost by 10–20 percent, and improve campaign ROI by 25–40 percent through targeted reallocation.
+
 6.Screenshort/Demos
 Show what the dashboard looks like.-
 Example:![Dashboard Preview].(https://github.com/rahulkumarpal24/Global-Footwear-Performance-Analytics/blob/main/Global%20Footwear%20Performance%20%26%20Analytics.png).
