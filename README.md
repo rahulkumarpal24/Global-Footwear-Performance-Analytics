@@ -1,5 +1,4 @@
 # Global-Footwear-Performance-Analytics
-# Global-Footwear-Performance-Analytics
 1. Project title
 Global Footwear Performance & Analytics
 
@@ -7,7 +6,7 @@ Global Footwear Performance & Analytics
 Short description  
 An interactive, enterprise dashboard that consolidates global footwear sales into a single view to reveal trends, compare brands and channels, and drive faster commercial decisions.
 
-Purpose  
+* Purpose  
 Provide merchandising, demand planning, marketing, and executive teams with actionable insights to increase revenue, protect margin, and optimize inventory and marketing spend.
 
 3. Tech stack
