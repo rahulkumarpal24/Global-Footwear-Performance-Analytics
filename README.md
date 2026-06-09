@@ -22,56 +22,44 @@ Source: Kaggle shoes dataset, cleaned and anonymized for analysis.
 Note: Sample CSVs are included for development; replace with validated production extracts after privacy review.
 
 5. Features and highlights with examples and key questions
-Feature: Monthly Revenue & Units trend
-What it shows: Monthly revenue and units sold side by side.
 
+* Feature: Monthly Revenue & Units trend
+What it shows: Monthly revenue and units sold side by side.
 Example insight: A November revenue spike with flat units indicates higher average selling price or premium promotions.
 
 Key question answered: Is revenue growth driven by volume or price?
 
-Feature: Brand benchmarking and Top Brands
+* Feature: Brand benchmarking and Top Brands
 What it shows: Brand market share and ranked performance.
-
 Example insight: A brand with high share but declining growth needs targeted marketing.
-
 Key question answered: Which brands are growing and which are losing share?
 
-Feature: Category sales breakdown
+* Feature: Category sales breakdown
 What it shows: Sales by category such as Sneakers, Boots, Casual, Formal, Running, Sports.
-
 Example insight: Sneakers lead sales, so prioritize new sneaker SKUs and replenishment.
-
 Key question answered: Which categories drive the most revenue and velocity?
 
-Feature: Country performance comparison
+* Feature: Country performance comparison
 What it shows: Revenue by country for quick market comparison.
-
 Example insight: UAE and USA show top revenue, suggesting regional inventory staging.
-
 Key question answered: Where should we allocate inventory and marketing budget?
 
-Feature: Sales by colour
+* Feature: Sales by colour
 What it shows: Color distribution across sales.
-
 Example insight: High demand for Blue and Grey suggests expanding those colorways.
-
 Key question answered: Which colors should be prioritized in production?
 
-Feature: Channel performance by brand
+* Feature: Channel performance by brand
 What it shows: Channel trends for Mall, Online, and Retail Store by brand.
-
 Example insight: Online growth for Brand X indicates shifting ad spend to e‑commerce.
-
 Key question answered: Which channels deliver the best returns for each brand?
 
-Feature: Interactive filters and exports
+* Feature: Interactive filters and exports
 What it shows: Dynamic filters for Month, Brand, Country, Color, Sales Channel, Shoe Category and CSV/image export.
-
 Example insight: Filter to Q4 + Online + Sneakers to evaluate holiday online sneaker performance.
-
 Key question answered: How do specific segments perform under different filters?
 
-Charts explanation (concise)
+> Charts explanation (concise)
 
 Combined bar + line: Bars show revenue, line shows units, use to detect price vs volume effects.
 Donut / ranked table: Visualize brand share and rank for quick benchmarking.
